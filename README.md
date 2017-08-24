@@ -8,3 +8,5 @@ Changes to be done:
 2. The webcam program killing process is not accurate.
 3. The frames sizes are set for a 7 inch display, you can change 
    as needed.
+
+For any queries feel free to send a mail on adarsh.pradyut@gmail.com
